@@ -4,9 +4,9 @@
 <dict>
     <key>Filter</key>
     <dict>
-        <key>Bundles</key>
+        <key>Executables</key>
         <array>
-            <string>com.apple.coreservices.useractivityd</string>
+            <string>useractivityd</string>
         </array>
     </dict>
 </dict>
